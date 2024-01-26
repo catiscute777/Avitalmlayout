@@ -38,7 +38,7 @@
         android:layout_width="177dp"
         android:layout_height="22dp"
         android:layout_marginTop="8dp"
-        android:text="Astyetw stygfgs sthata "
+        android:text="nine lives"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -214,11 +214,11 @@
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="315dp"
-        android:layout_height="98dp"
+        android:layout_width="318dp"
+        android:layout_height="153dp"
         android:layout_marginStart="20dp"
         android:layout_marginBottom="4dp"
-        android:text="skjdfgjhgaoh aj'ojwae'otjw'ptj 'pjtw 'pjweoj'jwe'oijwe wekj'eje'j errj  seojEJKReoj Ekjfe;orh eorjq'oerjr'ohr' okjreorjeo'jwe 'rwe'rokj'oej'rjo'io'i"
+        android:text="Tom Brand is a major business tycoon in New York City whose workaholic attitude ruined his first marriage with Madison, and his adult son David now works for him and strives for his approval."
         android:textColor="@color/white"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
