@@ -38,7 +38,7 @@
         android:layout_width="177dp"
         android:layout_height="22dp"
         android:layout_marginTop="8dp"
-        android:text="nine lives"
+        android:text="nine lives!"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
